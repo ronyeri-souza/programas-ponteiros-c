@@ -1,6 +1,8 @@
 #include <conio.h>
 #include <stdio.h>
 
+// 4 - O que fazem os programas abaixo? (no caso, funções)
+
 void programa01() {
 	
 	int vet[] = {4, 9, 13};
